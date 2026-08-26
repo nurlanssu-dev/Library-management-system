@@ -390,3 +390,11 @@ Layihənin əsas məqsədi yalnız işləyən proqram yaratmaq deyil, eyni zaman
 **Layihə:** Library Management App
 **Proqramlaşdırma dili:** C#
 **Platforma:** .NET Console Application
+
+
+# 👨‍💻 Müəllif
+
+**Nurlan Suleymanov**
+
+GitHub:
+[Profil linki](https://github.com/nurlanssu-dev)
