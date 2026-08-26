@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70CA3D39-5F2D-F18D-047E-F89E5A5805CF}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\librarymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CA3D39-5F2D-F18D-047E-F89E5A5805CF}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\utils\\exceptions\\notfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|solutionrelative:utils\\exceptions\\notfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70CA3D39-5F2D-F18D-047E-F89E5A5805CF}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\librarymanagementapp\\models\\library .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70CA3D39-5F2D-F18D-047E-F89E5A5805CF}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\models\\library .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +23,20 @@
       "RelativeMoniker": "D:0:0:{70CA3D39-5F2D-F18D-047E-F89E5A5805CF}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\utils\\exceptions\\notfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|solutionrelative:utils\\exceptions\\notfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\utils\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|solutionrelative:utils\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\utils\\exceptions\\alreadyexistsexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|solutionrelative:utils\\exceptions\\alreadyexistsexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\utils\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|solutionrelative:utils\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70CA3D39-5F2D-F18D-047E-F89E5A5805CF}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\librarymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70CA3D39-5F2D-F18D-047E-F89E5A5805CF}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\utils\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|solutionrelative:utils\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70CA3D39-5F2D-F18D-047E-F89E5A5805CF}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\librarymanagementapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70CA3D39-5F2D-F18D-047E-F89E5A5805CF}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|c:\\users\\nurlan\\source\\repos\\librarymanagementapp\\utils\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F5AC95-CD11-4B26-91CD-3DC1960716EB}|Utils\\Utils.csproj|solutionrelative:utils\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Library .cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\Library .cs",
               "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\Library .cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\Library .cs",
               "RelativeToolTip": "LibraryManagementApp\\Models\\Library .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-25T20:50:53.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\Book.cs",
               "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\Book.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\Book.cs",
               "RelativeToolTip": "LibraryManagementApp\\Models\\Book.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-25T20:37:55.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\User.cs",
@@ -89,20 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotFoundException .cs",
-              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\Utils\\Exceptions\\NotFoundException .cs",
-              "RelativeDocumentMoniker": "Utils\\Exceptions\\NotFoundException .cs",
-              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\Utils\\Exceptions\\NotFoundException .cs",
-              "RelativeToolTip": "Utils\\Exceptions\\NotFoundException .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T20:18:02.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AlreadyExistsException .cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\Utils\\Exceptions\\AlreadyExistsException .cs",
               "RelativeDocumentMoniker": "Utils\\Exceptions\\AlreadyExistsException .cs",
@@ -128,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\Utils\\Enums\\Role.cs",
               "RelativeDocumentMoniker": "Utils\\Enums\\Role.cs",
@@ -141,7 +128,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Program.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T13:39:49.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotFoundException .cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\Utils\\Exceptions\\NotFoundException .cs",
+              "RelativeDocumentMoniker": "Utils\\Exceptions\\NotFoundException .cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\Utils\\Exceptions\\NotFoundException .cs",
+              "RelativeToolTip": "Utils\\Exceptions\\NotFoundException .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T20:18:02.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\BaseEntity.cs",
@@ -149,21 +162,7 @@
               "RelativeToolTip": "LibraryManagementApp\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T20:06:36.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryManagementApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Program.cs",
-              "RelativeToolTip": "LibraryManagementApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T13:39:49.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T20:06:36.457Z"
             }
           ]
         }
